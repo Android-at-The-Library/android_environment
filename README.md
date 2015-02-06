@@ -33,7 +33,7 @@ While initially it may seem that this setup requires some extra resources on the
 ---------
 <a id='GUI'></a>
 ####installiong the Graphical User Inerface 
-the [Android Studio]() GUI
+the [Android Studio](https://developer.android.com/tools/studio/index.html) GUI
 ```
     sudo add-apt-repository ppa:paolorotolo/android-studio
     sudo apt-get update
