@@ -34,11 +34,11 @@ While initially it may seem that this setup requires some extra resources on the
 <a id='GUI'></a>
 ####installiong the Graphical User Inerface 
 the [Android Studio]() GUI
-
+```
     sudo add-apt-repository ppa:paolorotolo/android-studio
     sudo apt-get update
     sudo apt-get install android-studio
-
+```
 ----------
 <a id='troubleshooting'></a>
 #### troubleshooting:
