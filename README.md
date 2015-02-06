@@ -3,7 +3,6 @@ a home for the vagrantfile we will be using for class
 
 ###get started
 * download and install [virtualbox](https://www.virtualbox.org/wiki/Downloads)
-  * start it after installation 
 * install [vagrant](https://docs.vagrantup.com/v2/):
   * [download vagrant](http://www.vagrantup.com/downloads) for your platform and run the installer
 * run vagrant:
