@@ -44,5 +44,5 @@ the [Android Studio](https://developer.android.com/tools/studio/index.html) GUI
 #### troubleshooting:
 it might happen that vagrant does not "just work" right out of the box:
 #####on windows: 
-  `vagrant ssh` will actually require setting up [putty](http://www.putty.org/) ssh client.
-  most of the problems from setting up vagrant on windows will have to do with making sure that the $PATH variable is set properly for virtualbox(VIRTUALBOX) as well as for vagrant. 
+ * `vagrant ssh` will actually require setting up [putty](http://www.putty.org/) ssh client.
+ *  most of the problems from setting up vagrant on windows will have to do with making sure that the $PATH variable is set properly for virtualbox(VIRTUALBOX) as well as for vagrant. 
