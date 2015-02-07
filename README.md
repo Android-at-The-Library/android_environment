@@ -41,7 +41,10 @@ the [Android Studio](https://developer.android.com/tools/studio/index.html) GUI
 ```
 depending on which platform you are running from, you may have to set up an [X11](http://en.wikipedia.org/wiki/X_Window_System) client. 
 
-please check the Android Studio [wiki](../../wiki/Android-Studio)
+please check the Android Studio [wiki](../../wiki/Android-Studio) for more information on what dependencies your platform may require.
+
+
+
 ----------
 <a id='troubleshooting'></a>
 #### troubleshooting:
