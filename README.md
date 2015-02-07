@@ -25,7 +25,7 @@ While initially it may seem that this setup requires some extra resources on the
     * `git clone https://github.com/Android-at-The-Library/android_environment.git`.
     * `cd android_environment`.
     * `vagrant up` .
-      * if it doesn't work on windows, try this [fix](https://github.com/mitchellh/vagrant/issues/3852) <a id='path'></a>
+      * if it doesn't work on windows, try this [fix](https://github.com/mitchellh/vagrant/issues/3852) <a id='path'></a> or you might have to [shoot](#troubleshooting) it for causing trouble.
 * now your vagrant virtual machine is up and running! connect to it with `vagrant ssh`.
 
 
