@@ -32,13 +32,16 @@ While initially it may seem that this setup requires some extra resources on the
 
 ---------
 <a id='GUI'></a>
-####installing the Graphical User Inerface 
+####installing the Graphical User Interface 
 the [Android Studio](https://developer.android.com/tools/studio/index.html) GUI
 ```
     sudo add-apt-repository ppa:paolorotolo/android-studio
     sudo apt-get update
     sudo apt-get install android-studio
 ```
+depending on which platform you are running from, you may have to set up an [X11](http://en.wikipedia.org/wiki/X_Window_System) client. 
+
+please check the Android Studio [wiki](../../wiki/Android-Studio)
 ----------
 <a id='troubleshooting'></a>
 #### troubleshooting:
