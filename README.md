@@ -2,7 +2,7 @@
 ###Summary:
 This repository is a home for the [vagrantfile](Vagrantfile) we will be using for class. A vagrantfile is a pre-packaged configuration of (in this case) an Ubuntu GNU-Linux virtal machine.  This Virtual environment can be considered to be an easily deployable, updatable and replicable Development Enviroment that is also stable and feature-rich.
 
-[get started](#setup) building android apps from the Android SDK command line environment, in Java or Clojure, and [setup](#GUI) the Graphical User Interface Android Studio right away, or read on to learn more about the advantages of using this setup.
+[get started](#setup) building android apps from the Android SDK command line environment, in Java or Clojure, or through webview with Node.js and [setup](#GUI) the Graphical User Interface Android Studio right away, or read on to learn more about the advantages of using this setup.
 
 ###Rationale:
 While initially it may seem that this setup requires some extra resources on the user's machine, and requires students to install software that is not strictly required for developing an ADK in Java, there are also several clear and rewarding justifications for the extra steps.  
